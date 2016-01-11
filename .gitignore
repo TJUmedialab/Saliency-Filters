@@ -1,3 +1,7 @@
+SaliencyFilters/MEX/*.mexw64
+SaliencyFilters/MEX/*.mexw32
+
+
 #################
 ## Eclipse
 #################

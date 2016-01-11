@@ -15,7 +15,8 @@ Note:
 4. If you release any improvement of this, please keep my name on the thanks part :D
 
 How to use:
-1. cd the \SaliencyFilters\MEX dictionary and run make_all.m
-2. cd the \SaliencyFilters dictionary, run demo_saliency.m
-3. if you have a trouble in mexGenerateSuperPixel.mexw64, please use another superpixel method instead.
+1. mex -setup(if you didn't use mex before)
+2. cd the \SaliencyFilters\MEX dictionary and run make_all.m
+3. cd the \SaliencyFilters dictionary, run demo_saliency.m
+4. if you have a trouble in mexGenerateSuperPixel.mexw64, please use other superpixel methods instead.
 
